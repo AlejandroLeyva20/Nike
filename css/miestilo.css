@@ -1,0 +1,36 @@
+.algo{
+  border: 1px solid #FF0000;
+  font-size: 30px;
+}
+
+.lgrandes{
+      font-size: 2em;
+      color: #111;
+      letter-spacing: -0.045em;
+      word-spacing: -0.05em;
+      white-space: nowrap;
+}
+
+.bordo{
+  border: 1px solid #e0e0e0;
+}
+
+.lsmall{
+  font-size: 13px;
+}
+
+.final{
+  background-color: #191919;
+}
+
+.titulo{
+  font-size: 12px;
+  font-family: Helvetica,Arial,sans-serif;
+  letter-spacing: .03em;
+}
+
+.subtitulo{
+      font-size: .688em;
+      letter-spacing: .03em;
+      color: #999;
+}
